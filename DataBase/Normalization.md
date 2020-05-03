@@ -5,9 +5,9 @@ By normalizating, we can remove redundancy data.
 -----------
 # Necessity
 When normalization was not done, three error can occur. 
-1. Update
-2. Insert
-3. Deletion 
+1. Update anomaly
+2. Insert anomaly
+3. Deletion anomaly
 
 ## 1-Normalization(1NF)
 - All the columns must have the Atomic Value. 
